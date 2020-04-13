@@ -1,0 +1,57 @@
+/* You can write your codes here  */
+#border
+{
+     border: 5px solid red;
+     height: 225px;
+     width: 750px;
+     margin: auto;
+     text-align: center;
+     background-color: mediumpurple;
+    
+}
+#head1
+{
+    margin-top: 50px;
+    text-align: center;
+    color: green;
+    margin-bottom: 50px;
+}
+#p1
+{
+    margin-left: 25px;
+}
+#namefinal
+{
+    color: red;
+}
+#classfinal
+{
+    color: red;
+}
+#percentagefinal
+{
+    color:blue;
+}
+#form1
+{
+    text-align: center;
+    border: 3px solid green;
+    width: 400px;
+    height: 380px;
+    margin: auto;
+    background-color: greenyellow;
+    padding: 5px;
+}
+button
+{
+    font-size: large;
+    background-color: magenta;
+}
+input
+{
+    padding: 5px;
+}
+body
+{
+    background-color: mediumturquoise;
+}
